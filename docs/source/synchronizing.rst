@@ -1,0 +1,4 @@
+.. _synchronize:
+
+Synchronizing Subtitles
+========================

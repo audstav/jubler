@@ -1,0 +1,5 @@
+#ignore DS_Store files, virtual environment
+.DS_Store
+jublerenv/
+docs/build/
+docs/source/_templates/
