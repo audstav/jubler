@@ -3,6 +3,67 @@
 Creating Subtitles
 ===================
 
+.. table:: Skill Table
+   :widths: 3 3 2 2 2
+
+   +------------------+---------------+---------------+---------------+------------------+
+   | Skill            |Specific Errors|Remediation    |Development of |Additional Recap  |
+   |                  |               |               |the Topic      |Questions         |
+   +------------------+---------------+---------------+---------------+------------------+
+   |List the same     |List the common|Describe how   |This is the    |Include additional|                            
+   |skills identified |mistakes and   |the lessons    |precursor to   |recap and test    |
+   |in the Skill Tree |misconceptions |will help      |your script.   |questions to      | 
+   |in the order that |learners would |address and    |Outline how you|reinforce         |
+   |it would be       |have when      |remedy the     |would explain  |learning.         |
+   |presented in the  |dealing with   |misconceptions.|the various    |                  |
+   |actual lessons.   |the skills.    |               |skills and list|                  |
+   |                  |               |               |questions to   |                  |
+   |                  |               |               |accompany the  |                  |
+   |                  |               |               |explanation.   |                  |
+   +------------------+---------------+---------------+---------------+------------------+
+   
+.. admonition:: Example
+   
+    * **Prerequisite Skills**: State place value of whole numbers
+    * **Acquired Skills**: Identify tenths and hundredths place value in a decimal number.
+    * **Practiced Skills**:
+
+   .. table:: Introduction to Decimals: Skill Table
+      :widths: 2 2 2 3 2 
+
+      +------------------+---------------+----------------+-------------------+------------------+
+      | Skill            |Specific Errors|Remediation     |Development of     |Additional Recap  |
+      |                  |               |                |the Topic          |Questions         |
+      +------------------+---------------+----------------+-------------------+------------------+
+      |Identify the whole|Read the       |Return to card  |Prices are a good  |[RECAP] How would |
+      |and fractional    |decimal number |with 10x10 grid |representation of  |you read this     |
+      |parts of a decimal|as two         |to emphasize    |decimals.          |price $10.50 in a |
+      |number.           |separate whole |decimal-fraction|                   |shop? [Ten dollars|
+      |                  |numbers.       |link.           |[CONCEPT] What     |and fifty cents.] |
+      |                  |               |                |does the dot mean  |                  |
+      |                  |               |                |in this number?    |                  |
+      |                  |               |                |(Show a price in   |                  |
+      |                  |               |                |dollars and cents.)|                  |
+      |                  |               |                |                   |                  |
+      |                  |               |                |(Multiple choice:  |                  |
+      |                  |               |                |It represents two  |                  |
+      |                  |               |                |different prices,  |                  |
+      |                  |               |                |It separates       |                  |
+      |                  |               |                |dollars from cents,|                  |
+      |                  |               |                |It doesn't mean    |                  |
+      |                  |               |                |anything.)         |                  |
+      |                  |               |                |                   |                  |
+      |                  |               |                |[Explanation: Since|                  |
+      |                  |               |                |a dollar is made up|                  |
+      |                  |               |                |of 100 cents, we   |                  |
+      |                  |               |                |use a dot to       |                  |
+      |                  |               |                |separate the two.  |                  |
+      |                  |               |                |In this case, the  |                  |
+      |                  |               |                |price is *x*       |                  |
+      |                  |               |                |dollars and *y*    |                  |
+      |                  |               |                |cents.]            |                  |
+      +------------------+---------------+----------------+-------------------+------------------+
+
 In this section, you will learn how to:
 
  * :ref:`Open a New Subtitle File <open>`
